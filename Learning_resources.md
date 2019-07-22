@@ -50,6 +50,8 @@ https://github.com/hemanth/functional-programming-jargon
 
 [Coursera (Full-Stack Web Development with React Specialization)](https://www.coursera.org/specializations/full-stack-react)
 
+[Scrimba](https://scrimba.com/)
+
 #### React:
 [The Beginner's Guide to React](https://egghead.io/courses/the-beginner-s-guide-to-react)
 
@@ -65,5 +67,7 @@ https://my.oschina.net/u/3523984/blog/1621238
 
 ## Reference Site:
 http://jargon.js.org/
+
+https://www.tutorialspoint.com/index.htm
 
 ## Optional (HTML, CSS, PHP, SQL, Web fundamentales):
