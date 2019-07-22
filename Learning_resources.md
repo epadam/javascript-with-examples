@@ -4,6 +4,14 @@ Here document the my learning journey of javascript. I list all the resources an
 ## Textbooks:
 http://eloquentjavascript.net/
 
+http://speakingjs.com/
+
+https://exploringjs.com/impatient-js/index.html
+
+http://es6.ruanyifeng.com/
+
+http://liubin.org/promises-book/
+
 ## Tutorials to build the website to get the flavor of building websites:
 [Full stack website with js in 30 days](https://ithelp.ithome.com.tw/users/20110371/ironman/1616?page=1)
 
@@ -22,6 +30,10 @@ Two pillars of javascript
 
 [The Evolution of Asynchronous JavaScript](https://blog.risingstack.com/asynchronous-javascript/)
 
+https://www.freecodecamp.org/news/javascript-modules-a-beginner-s-guide-783f7d7a5fcc/
+
+https://www.sitepoint.com/beginners-guide-node-package-manager/
+
 ## Learnig courses from these websites:
 ### Tutorials:
 https://www.liaoxuefeng.com/wiki/1022910821149312
@@ -29,6 +41,9 @@ https://www.liaoxuefeng.com/wiki/1022910821149312
 https://www.w3schools.com/js/default.asp
 
 https://javascript.info/
+
+Browserify:
+https://scotch.io/tutorials/getting-started-with-browserify
 
 #### Functional Programming:
 https://github.com/hemanth/functional-programming-jargon
@@ -38,10 +53,14 @@ https://github.com/hemanth/functional-programming-jargon
 
 [Getting Started with Redux](https://redux.js.org/introduction/getting-started)
 
+https://btholt.github.io/complete-intro-to-react/
+
 ### Interactive:
 [Codecademy](https://www.codecademy.com/catalog/language/javascript) 
 
 [freecodecamp (also offers other HTML and advanced courses)](https://learn.freecodecamp.org/)
+
+[Scrimba](https://scrimba.com/)
 
 ### Video Courses:
 [Coursera (JavaScript, jQuery, and JSON)](https://www.coursera.org/learn/javascript-jquery-json)
@@ -50,7 +69,15 @@ https://github.com/hemanth/functional-programming-jargon
 
 [Coursera (Full-Stack Web Development with React Specialization)](https://www.coursera.org/specializations/full-stack-react)
 
-[Scrimba](https://scrimba.com/)
+https://www.youtube.com/watch?v=8aGhZQkoFbQ
+
+https://www.youtube.com/watch?v=568g8hxJJp4&t=
+
+#### ES6
+
+https://www.youtube.com/watch?v=AfWYO8t7ed4
+
+https://www.youtube.com/watch?v=LmL0Gh193M0
 
 #### React:
 [The Beginner's Guide to React](https://egghead.io/courses/the-beginner-s-guide-to-react)
@@ -70,4 +97,15 @@ http://jargon.js.org/
 
 https://www.tutorialspoint.com/index.htm
 
+https://guide.freecodecamp.org/
+
+https://frontendmasters.com/books/front-end-handbook/2017/
+
 ## Optional (HTML, CSS, PHP, SQL, Web fundamentales):
+
+https://www.youtube.com/watch?v=sBzRwzY7G-k
+
+https://www.youtube.com/watch?v=3JluqTojuME&list=PLoYCgNOIyGAB_8_iq1cL8MVeun7cB6eNc
+
+## Challenges
+
