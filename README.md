@@ -1,7 +1,7 @@
 # javascript-with-examples
 
 
-(Learning Resources)[Learning_resources.md]
+[Learning Resources](Learning_resources.md)
 
 ## Basic
 
