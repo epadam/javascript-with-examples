@@ -1,5 +1,7 @@
 # javascript-with-examples
-A javascript tutorial
+
+
+(Learning Resources)[Learning_resources.md]
 
 ## Basic
 
