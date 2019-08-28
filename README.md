@@ -28,6 +28,8 @@ Module
 
 AJAX
 
+### ES6
+
 ### Regular Expression
 
 ### BOM and DOM
