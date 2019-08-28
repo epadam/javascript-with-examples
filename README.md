@@ -37,11 +37,6 @@ Window Object
 ## Functional Programming
 
 
-
-## Debug and Testing
-
-Mocha and Jest
-
 ## MVC/MVVM
 
 ## Frontend
@@ -66,6 +61,10 @@ Mocha and Jest
 
 ### Cookies
 
+
+## Debug and Testing
+
+Mocha and Jest
 
 ## CI/CD
 
