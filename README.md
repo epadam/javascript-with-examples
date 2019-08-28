@@ -4,7 +4,7 @@
 
 ## Basic
 
-callback/promise/asyn and await
+callback/ promise/ async and await
 
 Öbject/Class
 
