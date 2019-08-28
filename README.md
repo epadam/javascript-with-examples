@@ -18,7 +18,14 @@ Closure
 
 generator
 
-higher-order functions
+fetch
+
+### higher-order functions
+
+map/reduce
+
+filter
+
 
 JSON
 
@@ -71,6 +78,11 @@ Mocha and Jest
 ## CI/CD
 
 Dockers and Jenkins
+
+## Popular Tools
+
+Babel
+
 
 ## Machine Learning in Javascript
 
