@@ -6,7 +6,7 @@
 
 callback/ promise/ async and await
 
-Öbject/Class
+Object/Class
 
 Dependency Injection
 
